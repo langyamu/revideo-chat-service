@@ -1,3 +1,8 @@
+_.md
+# history
+.history
+# source
+source/*
 # Logs
 logs
 *.log
